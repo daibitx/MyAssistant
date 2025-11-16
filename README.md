@@ -1,4 +1,4 @@
-[English](README.EN.)
+[English](README.EN.md)
  # 知识库助手
 
 配置文件说明
@@ -45,6 +45,7 @@
 ![截图2](./doc/Snipaste_2025-09-17_14-57-40.png)
 ![截图3](./doc/Snipaste_2025-09-17_14-57-09.png)
 ![截图4](./doc/Snipaste_2025-09-17_14-57-51.png)
+
 
 
 
